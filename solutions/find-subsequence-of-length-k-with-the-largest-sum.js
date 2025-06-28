@@ -1,9 +1,9 @@
 /*
  * LeetCode Problem: Find Subsequence of Length K With the Largest Sum
- * Submission ID: sub_1751138995226
+ * Submission ID: sub_1751139000482
  * Runtime: N/A
  * Memory: N/A
- * Submitted: 2025-06-28T19:29:55.228Z
+ * Submitted: 2025-06-28T19:30:00.484Z
  * Difficulty: Easy
  * Category: Unknown
  */
